@@ -1,5 +1,5 @@
 _repo: Peter-Schlemihl_5339
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -39,6 +39,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Fables'
 - !lcc 'PT'
+- GITenberg
 tableOfContents: 'Peter Schlemihl by Adelbert Chamisso -- The Story Without An End
   by Carode; Tr.: Sarah Austin -- Hymns To Night by Novalis, Tr.: Henry Morley.'
 title: Peter Schlemihl
